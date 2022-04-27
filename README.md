@@ -1,4 +1,4 @@
-# **Advanced Lane Finding Project**
+# **Lane Line Detection Project**
 The project is to Write a software pipeline to identify and track the traffic lane boundaries in a video from a front-facing camera in a car. 
 
 When we drive, we use our eyes to decide where to go. In this project, I use a front-facing camera as my self-driving-car's eye to  automatically detect and track lane lines using this python pipeline. This pipeline algorithm can calibrate its vision to see clearly the lane boundaries, and search lane lines using sliding window approach. It finally draws the lines boundaries so that human beings are updated with what the self-driving-car's vision and decisions. 
